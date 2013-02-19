@@ -1,0 +1,8 @@
+{
+   "require": {
+      "php": ">=5.4.0",
+      "paulus/paulus": "dev-library-style-restructure",
+      "php-activerecord/php-activerecord": "dev-master"
+   },
+   "minimum-stability": "dev"
+}
